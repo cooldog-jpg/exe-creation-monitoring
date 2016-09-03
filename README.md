@@ -6,7 +6,6 @@ PowerShell automation for monitoring executables being created in a folder. The 
 
 ###How to use:
 - Edit the script and change the folder paths you want to use.
-- Create the log file you included in the script constants.
 - Run a command prompt, then type in:
 ```
 PowerShell -noexit -windowstyle hidden -ExecutionPolicy UnRestricted -File PATH TO THE SCRIPT
